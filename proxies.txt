@@ -1,0 +1,3 @@
+http://proxyuser1:proxypass1@us1.proxyserver.com:3128
+http://proxyuser2:proxypass2@de2.proxyserver.com:8080
+http://proxyuser3:proxypass3@fr3.proxyserver.com:8000
