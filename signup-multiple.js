@@ -1,3 +1,4 @@
+// signup-multiple.js
 import fs from 'fs/promises';
 import { exec } from 'child_process';
 import util from 'util';
@@ -5,7 +6,7 @@ import util from 'util';
 const execPromise = util.promisify(exec);
 const PROXY_LIST_FILE = './proxies.txt';
 const ACCOUNTS_FILE = './accounts.json';
-const TOTAL_ACCOUNTS = 100; // number of accounts to create
+const TOTAL_ACCOUNTS = 10; // ✅ faqat 10 ta yaratamiz
 
 async function loadProxies() {
   const data = await fs.readFile(PROXY_LIST_FILE, 'utf8');
@@ -30,7 +31,6 @@ async function run() {
     console.log(`\n\n▶️ Starting signup ${i + 1}/${TOTAL_ACCOUNTS} using proxy: ${proxy}`);
 
     try {
-      // pass proxy as env variable
       const { stdout, stderr } = await execPromise(`node signup.js "${proxy}"`);
       if (stderr) console.error(stderr);
       console.log(stdout);

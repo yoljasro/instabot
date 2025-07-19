@@ -1,3 +1,10 @@
-http://proxyuser1:proxypass1@us1.proxyserver.com:3128
-http://proxyuser2:proxypass2@de2.proxyserver.com:8080
-http://proxyuser3:proxypass3@fr3.proxyserver.com:8000
+http://daxavctx:u2l9yt3dnoi1@38.154.227.167:5868
+http://daxavctx:u2l9yt3dnoi1@23.95.150.145:6114
+http://daxavctx:u2l9yt3dnoi1@198.23.239.134:6540
+http://daxavctx:u2l9yt3dnoi1@45.38.107.97:6014
+http://daxavctx:u2l9yt3dnoi1@207.244.217.165:6712
+http://daxavctx:u2l9yt3dnoi1@107.172.163.27:6543
+http://daxavctx:u2l9yt3dnoi1@216.10.27.159:6837
+http://daxavctx:u2l9yt3dnoi1@136.0.207.84:6661
+http://daxavctx:u2l9yt3dnoi1@142.147.128.93:6593
+http://daxavctx:u2l9yt3dnoi1@206.41.172.74:6634

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Instagram Bot Dashboard</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 30px;
+      background-color: #f9f9f9;
+    }
+    h1 {
+      margin-bottom: 5px;
+    }
+    .summary {
+      margin-bottom: 20px;
+      font-weight: bold;
+    }
+    button {
+      margin-right: 10px;
+      padding: 8px 12px;
+      cursor: pointer;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 8px;
+      text-align: left;
+      font-size: 14px;
+    }
+    th {
+      background-color: #eee;
+    }
+    .status-ok {
+      color: green;
+      font-weight: bold;
+    }
+    .status-error {
+      color: red;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>📊 Instagram Bot Dashboard</h1>
+  <div class="summary">
+    Total Accounts: <span id="account-count">0</span>
+  </div>
+
+  <div>
+    <button onclick="runScript('signup')">▶️ Signup</button>
+    <button onclick="runScript('warmup')">🔥 Warmup</button>
+    <button onclick="runScript('like')">❤️ Like</button>
+    <button onclick="runScript('comment')">💬 Comment</button>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Username</th>
+        <th>Proxy</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody id="account-table"></tbody>
+  </table>
+
+  <script>
+    async function loadAccounts() {
+      try {
+        const res = await fetch('/accounts.json');
+        const data = await res.json();
+        const table = document.getElementById('account-table');
+        const count = document.getElementById('account-count');
+        table.innerHTML = '';
+        count.textContent = data.length;
+
+        data.forEach((acc, index) => {
+          const row = document.createElement('tr');
+          row.innerHTML = `
+            <td>${index + 1}</td>
+            <td>${acc.username}</td>
+            <td>${acc.proxy || '-'}</td>
+            <td class="status-ok">Ready</td>
+          `;
+          table.appendChild(row);
+        });
+      } catch (e) {
+        console.error('Failed to load accounts:', e);
+      }
+    }
+
+    function runScript(type) {
+      alert(`⏳ Running "${type}" process... (this should trigger API later)`);
+      // You can replace this with fetch('/api/signup') etc. in the future
+    }
+
+    loadAccounts();
+  </script>
+</body>
+</html>
