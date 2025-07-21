@@ -17435,3 +17435,397 @@ SyntaxError: Unexpected end of JSON input
     at async file:///Users/sabinayunusova/Desktop/instabot/comment-bot.js:46:20
 
 Node.js v22.15.1
+
+[Signup 100 Accounts] STDOUT:
+
+
+▶️ Starting signup 1/10 using proxy: http://daxavctx:u2l9yt3dnoi1@38.154.227.167:5868
+
+
+
+▶️ Starting signup 2/10 using proxy: http://daxavctx:u2l9yt3dnoi1@23.95.150.145:6114
+
+
+
+▶️ Starting signup 3/10 using proxy: http://daxavctx:u2l9yt3dnoi1@198.23.239.134:6540
+
+
+
+▶️ Starting signup 4/10 using proxy: http://daxavctx:u2l9yt3dnoi1@45.38.107.97:6014
+
+
+
+▶️ Starting signup 5/10 using proxy: http://daxavctx:u2l9yt3dnoi1@207.244.217.165:6712
+
+
+
+▶️ Starting signup 6/10 using proxy: http://daxavctx:u2l9yt3dnoi1@107.172.163.27:6543
+
+
+
+▶️ Starting signup 7/10 using proxy: http://daxavctx:u2l9yt3dnoi1@216.10.27.159:6837
+
+
+
+▶️ Starting signup 8/10 using proxy: http://daxavctx:u2l9yt3dnoi1@136.0.207.84:6661
+
+
+
+▶️ Starting signup 9/10 using proxy: http://daxavctx:u2l9yt3dnoi1@142.147.128.93:6593
+
+
+
+▶️ Starting signup 10/10 using proxy: http://daxavctx:u2l9yt3dnoi1@206.41.172.74:6634
+
+
+[Warm-up Accounts] ❌ ERROR:
+Command failed: node warmup.js
+<anonymous_script>:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at loadAccounts (file:///Users/sabinayunusova/Desktop/instabot/warmup.js:10:15)
+    at async file:///Users/sabinayunusova/Desktop/instabot/warmup.js:53:20
+
+Node.js v22.15.1
+
+[Like Bot (target post)] ❌ ERROR:
+Command failed: node like-bot.js
+<anonymous_script>:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at loadAccounts (file:///Users/sabinayunusova/Desktop/instabot/like-bot.js:9:15)
+    at async file:///Users/sabinayunusova/Desktop/instabot/like-bot.js:39:20
+
+Node.js v22.15.1
+
+[Comment Bot (target post)] ❌ ERROR:
+Command failed: node comment-bot.js
+<anonymous_script>:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at loadAccounts (file:///Users/sabinayunusova/Desktop/instabot/comment-bot.js:10:15)
+    at async file:///Users/sabinayunusova/Desktop/instabot/comment-bot.js:46:20
+
+Node.js v22.15.1
+
+[Signup 100 Accounts] STDOUT:
+
+
+▶️ Starting signup 1/10 using proxy: http://daxavctx:u2l9yt3dnoi1@38.154.227.167:5868
+
+
+
+▶️ Starting signup 2/10 using proxy: http://daxavctx:u2l9yt3dnoi1@23.95.150.145:6114
+
+
+
+▶️ Starting signup 3/10 using proxy: http://daxavctx:u2l9yt3dnoi1@198.23.239.134:6540
+
+
+
+▶️ Starting signup 4/10 using proxy: http://daxavctx:u2l9yt3dnoi1@45.38.107.97:6014
+
+
+
+▶️ Starting signup 5/10 using proxy: http://daxavctx:u2l9yt3dnoi1@207.244.217.165:6712
+
+
+
+▶️ Starting signup 6/10 using proxy: http://daxavctx:u2l9yt3dnoi1@107.172.163.27:6543
+
+
+
+▶️ Starting signup 7/10 using proxy: http://daxavctx:u2l9yt3dnoi1@216.10.27.159:6837
+
+
+
+▶️ Starting signup 8/10 using proxy: http://daxavctx:u2l9yt3dnoi1@136.0.207.84:6661
+
+
+
+▶️ Starting signup 9/10 using proxy: http://daxavctx:u2l9yt3dnoi1@142.147.128.93:6593
+
+
+
+▶️ Starting signup 10/10 using proxy: http://daxavctx:u2l9yt3dnoi1@206.41.172.74:6634
+
+
+[Warm-up Accounts] ❌ ERROR:
+Command failed: node warmup.js
+<anonymous_script>:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at loadAccounts (file:///Users/sabinayunusova/Desktop/instabot/warmup.js:10:15)
+    at async file:///Users/sabinayunusova/Desktop/instabot/warmup.js:53:20
+
+Node.js v22.15.1
+
+[Like Bot (target post)] ❌ ERROR:
+Command failed: node like-bot.js
+<anonymous_script>:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at loadAccounts (file:///Users/sabinayunusova/Desktop/instabot/like-bot.js:9:15)
+    at async file:///Users/sabinayunusova/Desktop/instabot/like-bot.js:39:20
+
+Node.js v22.15.1
+
+[Comment Bot (target post)] ❌ ERROR:
+Command failed: node comment-bot.js
+<anonymous_script>:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at loadAccounts (file:///Users/sabinayunusova/Desktop/instabot/comment-bot.js:10:15)
+    at async file:///Users/sabinayunusova/Desktop/instabot/comment-bot.js:46:20
+
+Node.js v22.15.1
+
+[Signup 100 Accounts] STDOUT:
+
+
+▶️ Starting signup 1/10 using proxy: http://daxavctx:u2l9yt3dnoi1@38.154.227.167:5868
+
+
+
+▶️ Starting signup 2/10 using proxy: http://daxavctx:u2l9yt3dnoi1@23.95.150.145:6114
+
+
+
+▶️ Starting signup 3/10 using proxy: http://daxavctx:u2l9yt3dnoi1@198.23.239.134:6540
+
+
+
+▶️ Starting signup 4/10 using proxy: http://daxavctx:u2l9yt3dnoi1@45.38.107.97:6014
+
+
+
+▶️ Starting signup 5/10 using proxy: http://daxavctx:u2l9yt3dnoi1@207.244.217.165:6712
+
+
+
+▶️ Starting signup 6/10 using proxy: http://daxavctx:u2l9yt3dnoi1@107.172.163.27:6543
+
+
+
+▶️ Starting signup 7/10 using proxy: http://daxavctx:u2l9yt3dnoi1@216.10.27.159:6837
+
+
+
+▶️ Starting signup 8/10 using proxy: http://daxavctx:u2l9yt3dnoi1@136.0.207.84:6661
+
+
+
+▶️ Starting signup 9/10 using proxy: http://daxavctx:u2l9yt3dnoi1@142.147.128.93:6593
+
+
+
+▶️ Starting signup 10/10 using proxy: http://daxavctx:u2l9yt3dnoi1@206.41.172.74:6634
+
+
+[Warm-up Accounts] ❌ ERROR:
+Command failed: node warmup.js
+<anonymous_script>:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at loadAccounts (file:///Users/sabinayunusova/Desktop/instabot/warmup.js:10:15)
+    at async file:///Users/sabinayunusova/Desktop/instabot/warmup.js:53:20
+
+Node.js v22.15.1
+
+[Like Bot (target post)] ❌ ERROR:
+Command failed: node like-bot.js
+<anonymous_script>:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at loadAccounts (file:///Users/sabinayunusova/Desktop/instabot/like-bot.js:9:15)
+    at async file:///Users/sabinayunusova/Desktop/instabot/like-bot.js:39:20
+
+Node.js v22.15.1
+
+[Comment Bot (target post)] ❌ ERROR:
+Command failed: node comment-bot.js
+<anonymous_script>:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at loadAccounts (file:///Users/sabinayunusova/Desktop/instabot/comment-bot.js:10:15)
+    at async file:///Users/sabinayunusova/Desktop/instabot/comment-bot.js:46:20
+
+Node.js v22.15.1
+
+[Signup 100 Accounts] STDOUT:
+
+
+▶️ Starting signup 1/10 using proxy: http://daxavctx:u2l9yt3dnoi1@38.154.227.167:5868
+
+
+
+▶️ Starting signup 2/10 using proxy: http://daxavctx:u2l9yt3dnoi1@23.95.150.145:6114
+
+
+
+▶️ Starting signup 3/10 using proxy: http://daxavctx:u2l9yt3dnoi1@198.23.239.134:6540
+
+
+
+▶️ Starting signup 4/10 using proxy: http://daxavctx:u2l9yt3dnoi1@45.38.107.97:6014
+
+
+
+▶️ Starting signup 5/10 using proxy: http://daxavctx:u2l9yt3dnoi1@207.244.217.165:6712
+
+
+
+▶️ Starting signup 6/10 using proxy: http://daxavctx:u2l9yt3dnoi1@107.172.163.27:6543
+
+
+
+▶️ Starting signup 7/10 using proxy: http://daxavctx:u2l9yt3dnoi1@216.10.27.159:6837
+
+
+
+▶️ Starting signup 8/10 using proxy: http://daxavctx:u2l9yt3dnoi1@136.0.207.84:6661
+
+
+
+▶️ Starting signup 9/10 using proxy: http://daxavctx:u2l9yt3dnoi1@142.147.128.93:6593
+
+
+
+▶️ Starting signup 10/10 using proxy: http://daxavctx:u2l9yt3dnoi1@206.41.172.74:6634
+
+
+[Signup 100 Accounts] STDERR:
+ReferenceError: uzbekFirstNames is not defined
+    at generateFullName (file:///Users/sabinayunusova/Desktop/instabot/signup.js:24:44)
+    at signup (file:///Users/sabinayunusova/Desktop/instabot/signup.js:86:15)
+    at file:///Users/sabinayunusova/Desktop/instabot/signup.js:180:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+
+ReferenceError: uzbekFirstNames is not defined
+    at generateFullName (file:///Users/sabinayunusova/Desktop/instabot/signup.js:24:44)
+    at signup (file:///Users/sabinayunusova/Desktop/instabot/signup.js:86:15)
+    at file:///Users/sabinayunusova/Desktop/instabot/signup.js:180:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+
+ReferenceError: uzbekFirstNames is not defined
+    at generateFullName (file:///Users/sabinayunusova/Desktop/instabot/signup.js:24:44)
+    at signup (file:///Users/sabinayunusova/Desktop/instabot/signup.js:86:15)
+    at file:///Users/sabinayunusova/Desktop/instabot/signup.js:180:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+
+ReferenceError: uzbekFirstNames is not defined
+    at generateFullName (file:///Users/sabinayunusova/Desktop/instabot/signup.js:24:44)
+    at signup (file:///Users/sabinayunusova/Desktop/instabot/signup.js:86:15)
+    at file:///Users/sabinayunusova/Desktop/instabot/signup.js:180:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+
+ReferenceError: uzbekFirstNames is not defined
+    at generateFullName (file:///Users/sabinayunusova/Desktop/instabot/signup.js:24:44)
+    at signup (file:///Users/sabinayunusova/Desktop/instabot/signup.js:86:15)
+    at file:///Users/sabinayunusova/Desktop/instabot/signup.js:180:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+
+ReferenceError: uzbekFirstNames is not defined
+    at generateFullName (file:///Users/sabinayunusova/Desktop/instabot/signup.js:24:44)
+    at signup (file:///Users/sabinayunusova/Desktop/instabot/signup.js:86:15)
+    at file:///Users/sabinayunusova/Desktop/instabot/signup.js:180:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+
+ReferenceError: uzbekFirstNames is not defined
+    at generateFullName (file:///Users/sabinayunusova/Desktop/instabot/signup.js:24:44)
+    at signup (file:///Users/sabinayunusova/Desktop/instabot/signup.js:86:15)
+    at file:///Users/sabinayunusova/Desktop/instabot/signup.js:180:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+
+ReferenceError: uzbekFirstNames is not defined
+    at generateFullName (file:///Users/sabinayunusova/Desktop/instabot/signup.js:24:44)
+    at signup (file:///Users/sabinayunusova/Desktop/instabot/signup.js:86:15)
+    at file:///Users/sabinayunusova/Desktop/instabot/signup.js:180:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+
+ReferenceError: uzbekFirstNames is not defined
+    at generateFullName (file:///Users/sabinayunusova/Desktop/instabot/signup.js:24:44)
+    at signup (file:///Users/sabinayunusova/Desktop/instabot/signup.js:86:15)
+    at file:///Users/sabinayunusova/Desktop/instabot/signup.js:180:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+
+ReferenceError: uzbekFirstNames is not defined
+    at generateFullName (file:///Users/sabinayunusova/Desktop/instabot/signup.js:24:44)
+    at signup (file:///Users/sabinayunusova/Desktop/instabot/signup.js:86:15)
+    at file:///Users/sabinayunusova/Desktop/instabot/signup.js:180:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+
+
+[Warm-up Accounts] ❌ ERROR:
+Command failed: node warmup.js
+<anonymous_script>:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at loadAccounts (file:///Users/sabinayunusova/Desktop/instabot/warmup.js:10:15)
+    at async file:///Users/sabinayunusova/Desktop/instabot/warmup.js:53:20
+
+Node.js v22.15.1
+
+[Like Bot (target post)] ❌ ERROR:
+Command failed: node like-bot.js
+<anonymous_script>:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at loadAccounts (file:///Users/sabinayunusova/Desktop/instabot/like-bot.js:9:15)
+    at async file:///Users/sabinayunusova/Desktop/instabot/like-bot.js:39:20
+
+Node.js v22.15.1
+
+[Comment Bot (target post)] ❌ ERROR:
+Command failed: node comment-bot.js
+<anonymous_script>:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at loadAccounts (file:///Users/sabinayunusova/Desktop/instabot/comment-bot.js:10:15)
+    at async file:///Users/sabinayunusova/Desktop/instabot/comment-bot.js:46:20
+
+Node.js v22.15.1
